@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-08-20T11:08:34Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.586,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "SmallEIBPins1.2pban_eC"
+        },
+        "Owner": "Yuichi Takeuchi <takeuchi.y@gmail.com>",
+        "Size": {
+            "X": 50,
+            "Y": 50
+        }
+    }
+}
